@@ -28,7 +28,7 @@ Hi! I am a first-year Ph.D. student in Computer Science at Texas A&M University,
 - *2025.01*: Our paper, "HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection", was accepted at the **WACV 2025** Workshop on AI for Multimedia Forensics & Disinformation Detection as an <span style="color:green">**ORAL**</span>!
 - *2024.08*: Started my **M.S.** in Computer Science at Texas A&M University.
 - *2024.07*: Selected for the **Oxford Machine Learning Summer School (OxML) 2024**, sponsored by Google DeepMind (MLx Health & Bio track).
-- *2024.05*: Received a **USD 30,000 research fellowship** from the [Center for Curiosity](https://www.centerforcuriosity.com/research)!
+- *2024.05*: Received a **scholarship worth USD 30,000** from the [Center for Curiosity](https://www.centerforcuriosity.com/research)!
 - *2024*: Our work, "Calibrating Machine Learning Models For Accurate Stroke Type Prediction In Low-resource Settings", was accepted at the **16th World Stroke Congress (WSC 2024)**, an opportunity to collaborate with **AIIMS Delhi, India**!
 - *2024.01*: Our paper, "A Feature Extraction and Time Warping Based Neural Expansion Architecture for Cloud Resource Usage Forecasting", was published in **Cluster Computing**.
 - *2023.10*: Our paper, "An Automated Diagnosis Model for Classifying Cardiac Abnormality Utilizing Deep Neural Networks", was published in **Multimedia Tools and Applications**.
@@ -106,7 +106,7 @@ Gurjot Singh, Prajit Sengupta, **Anant Mehta**, Jatin Bedi
 - *2026*: **Spotlight Paper** — NeurIPS 2026 (TuneCLIP)
 - *2025*: **Travel Award** — IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)
 - *2025*: **Oral Presentation** — WACV 2025 Workshop on AI for Multimedia Forensics & Disinformation Detection
-- *2024*: **Research Fellowship (USD 30,000)** — [Center for Curiosity](https://www.centerforcuriosity.com/research)
+- *2024*: **Scholarship (USD 30,000)** — [Center for Curiosity](https://www.centerforcuriosity.com/research)
 - *2024*: **Oxford Machine Learning Summer School (OxML)** — Selected participant, sponsored by Google DeepMind
 - *2024*: **University Medal and Cash Prize** — Thapar Institute of Engineering & Technology, for excellence in academics *(ranked in top 1%)*
 - *2023*: **Best Research Paper Award** — HeartBeatNet: Unleashing the Power of Attention in Cardiology, CINS 2023
