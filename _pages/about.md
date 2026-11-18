@@ -123,4 +123,4 @@ Gurjot Singh, Prajit Sengupta, **Anant Mehta**, Jatin Bedi
 
 # 📚 Teaching and Mentoring
 - *Spring 2026*: Graduate Teaching Assistant, CSCE 482: Senior Capstone Design (undergraduate), Texas A&M University. Mentored 6 projects with 30 students.
-- *Fall 2025*: Graduate Teaching Assistant, CSCE 703 / CYBR 603: Cybersecurity Risk (graduate), Texas A&M University. Mentored 5 students on a research project, one of which led to the **Best Student Paper Award** at GAISS 2026, UT Austin.
+- *Fall 2025*: Graduate Teaching Assistant, CSCE 703 / CYBR 603: Cybersecurity Risk (graduate), Texas A&M University. Mentored 5 students on a research project, which led to the **Best Student Paper Award** at GAISS 2026, UT Austin.
