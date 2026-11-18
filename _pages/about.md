@@ -117,10 +117,10 @@ Gurjot Singh, Prajit Sengupta, **Anant Mehta**, Jatin Bedi
 - *2020.09 - 2024.06*, B.E. in Computer Engineering, Thapar Institute of Engineering & Technology, Patiala, India
 
 # 💻 Experience
-- *2024.01 - 2024.06*, **Research Intern**, **Indian Institute of Technology Delhi**, New Delhi, India, with [Prof. Rahul Garg](https://www.cse.iitd.ac.in/~rahulgarg/)
-- *2023.06 - 2023.07*, **Machine Learning Engineer Intern**, Metacube Software, Jaipur, India
-- *2022.06 - 2022.07*, **Deep Learning Research Engineer Intern**, NPBridge, Bengaluru, India
+- *2024.01 - 2024.06*, Research Intern, Indian Institute of Technology Delhi, New Delhi, India, with [Prof. Rahul Garg](https://www.cse.iitd.ac.in/~rahulgarg/)
+- *2023.06 - 2023.07*, Machine Learning Engineer Intern, Metacube Software, Jaipur, India
+- *2022.06 - 2022.07*, Deep Learning Research Engineer Intern, NPBridge, Bengaluru, India
 
-# 📚 Service
+# 📚 Teaching and Mentoring
 - *Spring 2026*: Graduate Teaching Assistant, CSCE 482: Senior Capstone Design (undergraduate), Texas A&M University. Mentored 6 projects with 30 students.
 - *Fall 2025*: Graduate Teaching Assistant, CSCE 703 / CYBR 603: Cybersecurity Risk (graduate), Texas A&M University. Mentored 5 students on a research project, one of which led to the **Best Student Paper Award** at GAISS 2026, UT Austin.
