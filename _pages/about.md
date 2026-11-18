@@ -20,14 +20,14 @@ redirect_from:
 Hi! I am a first-year Ph.D. student in Computer Science at Texas A&M University, working in the [OptMAI Lab](https://people.tamu.edu/~tianbao-yang/) advised by [Dr. Tianbao Yang](https://people.tamu.edu/~tianbao-yang/). My research focuses on **large-scale multimodal foundation models**, in particular **pretraining methods**, **optimization**, and **scalable distributed training pipelines**. I have experience pretraining foundation models on **highly multimodal data** with diverse distributions spanning **14+ medical imaging modalities**.
 
 # 🔥 News
-- *2026.11*: A US patent application for **RADEO**, our unified multi-modality foundation model for medical imaging, is now pending.
-- *2026.10*: Received the **NeurIPS 2026 Travel Award**.
-- *2026.09*: Our paper, "Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP" (**TuneCLIP**), was accepted at **NeurIPS 2026** as a <span style="color:red">**Spotlight**</span> (top 3%)! [[paper]](https://arxiv.org/abs/2601.09859) [[code]](https://github.com/Optimization-AI/TuneCLIP)
-- *2026.08*: Started my **Ph.D.** in Computer Science at Texas A&M University under [Prof. Tianbao Yang](https://people.tamu.edu/~tianbao-yang/).
-- *2025.01*: Our paper, "HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection", was accepted at the **WACV 2025** Workshop on AI for Multimedia Forensics & Disinformation Detection as an <span style="color:green">**Oral**</span>!
-- *2024*: Our work, "Calibrating Machine Learning Models For Accurate Stroke Type Prediction In Low-resource Settings", was accepted at the **16th World Stroke Congress (WSC 2024)**, an opportunity to collaborate with **AIIMS Delhi, India**!
-- *2024.01*: Our paper, "A Feature Extraction and Time Warping Based Neural Expansion Architecture for Cloud Resource Usage Forecasting", was published in **Cluster Computing**.
-- *2023.10*: Our paper, "An Automated Diagnosis Model for Classifying Cardiac Abnormality Utilizing Deep Neural Networks", was published in **Multimedia Tools and Applications**.
+- *2026.11*: A US patent application for RADEO, our unified multi-modality foundation model for medical imaging, is now pending.
+- *2026.10*: Received the NeurIPS 2026 Travel Award.
+- *2026.09*: Our paper, "Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP" (TuneCLIP), was accepted at NeurIPS 2026 as a <span style="color:red">Spotlight</span> (top 3%)! [[paper]](https://arxiv.org/abs/2601.09859) [[code]](https://github.com/Optimization-AI/TuneCLIP)
+- *2026.08*: Started my Ph.D. in Computer Science at Texas A&M University under [Prof. Tianbao Yang](https://people.tamu.edu/~tianbao-yang/).
+- *2025.01*: Our paper, "HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection", was accepted at the WACV 2025 Workshop on AI for Multimedia Forensics & Disinformation Detection as an <span style="color:green">Oral</span>!
+- *2024*: Our work, "Calibrating Machine Learning Models For Accurate Stroke Type Prediction In Low-resource Settings", was accepted at the 16th World Stroke Congress (WSC 2024), an opportunity to collaborate with AIIMS Delhi, India!
+- *2024.01*: Our paper, "A Feature Extraction and Time Warping Based Neural Expansion Architecture for Cloud Resource Usage Forecasting", was published in Cluster Computing.
+- *2023.10*: Our paper, "An Automated Diagnosis Model for Classifying Cardiac Abnormality Utilizing Deep Neural Networks", was published in Multimedia Tools and Applications.
 
 # 📝 Publications 
 
