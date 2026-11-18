@@ -38,7 +38,7 @@ RADEO: A Unified Self-supervised Foundation Model Across Diverse Medical Imaging
 
 **Anant Mehta**, Vicente Balmaseda, Xiyuan Wei, Ryan King, Varsha Goalla, Girish Bathla, Sadeer G. Al-Kindi, Kyle J. Myers, Tianbao Yang
 
-<span style="color:green">**US Patent Pending**</span> · To be submitted to *Nature*
+<span style="color:green">**US Patent Pending**</span> · Under Review
 - Led the development and pretraining of **RADEO**, a single **multi-modality foundation model** self-supervised pretrained on **millions of images** spanning **14+ medical imaging modalities**.
 - RADEO beats Google Research's **MedSigLIP**, the image encoder used in [MedGemma](https://deepmind.google/models/gemma/medgemma/), and achieves a **mean rank of 1** across various tasks.
 - Scaled RADEO to a larger model with **700+ GPUs** in a heroic run on [**VISION**](https://vision.tamus.edu/), the Texas A&M System's NVIDIA DGX SuperPOD (**#66** on the June 2026 TOP500 list), achieving state-of-the-art performance among medical foundation models.
