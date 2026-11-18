@@ -17,18 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a first-year Ph.D. student in Computer Science at Texas A&M University, working in the [OptMAI Lab](https://people.tamu.edu/~tianbao-yang/) advised by [Dr. Tianbao Yang](https://people.tamu.edu/~tianbao-yang/) (Stephen Horn '79 Engineering Excellence Chair and Herbert H. Richardson Faculty Fellow). My research focuses on **large-scale multimodal foundation models**, in particular **pretraining methods**, **optimization**, and **scalable distributed training pipelines**. I have trained foundation models across multiple nodes using **100+ GPUs**, developing models competitive with state-of-the-art approaches.
+Hi! I am a first-year Ph.D. student in Computer Science at Texas A&M University, working in the [OptMAI Lab](https://people.tamu.edu/~tianbao-yang/) advised by [Dr. Tianbao Yang](https://people.tamu.edu/~tianbao-yang/). My research focuses on **large-scale multimodal foundation models**, in particular **pretraining methods**, **optimization**, and **scalable distributed training pipelines**. I have experience pretraining foundation models on **highly multimodal data** with diverse distributions spanning **14+ medical imaging modalities**.
 
 # 🔥 News
-- *2026.11*: Got the opportunity to do a heroic run on [**VISION**](https://vision.tamus.edu/), the Texas A&M System's NVIDIA DGX SuperPOD and one of the largest academic supercomputers in the U.S. (**#66** on the June 2026 TOP500 list), scaling **RADEO** to a larger model using **700+ GPUs** and achieving state-of-the-art performance across medical foundation models. Stay tuned, more coming soon!
 - *2026.11*: A US patent application for **RADEO**, our unified multi-modality foundation model for medical imaging, is now pending.
 - *2026.10*: Received the **NeurIPS 2026 Travel Award**.
-- *2026.09*: Our paper, "Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP" (**TuneCLIP**), was accepted at **NeurIPS 2026** as a <span style="color:red">**Spotlight**</span>! [[paper]](https://arxiv.org/abs/2601.09859) [[code]](https://github.com/Optimization-AI/TuneCLIP)
+- *2026.09*: Our paper, "Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP" (**TuneCLIP**), was accepted at **NeurIPS 2026** as a <span style="color:red">**Spotlight**</span> (top 3%)! [[paper]](https://arxiv.org/abs/2601.09859) [[code]](https://github.com/Optimization-AI/TuneCLIP)
 - *2026.08*: Started my **Ph.D.** in Computer Science at Texas A&M University under [Prof. Tianbao Yang](https://people.tamu.edu/~tianbao-yang/).
-- *2025.01*: Our paper, "HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection", was accepted at the **WACV 2025** Workshop on AI for Multimedia Forensics & Disinformation Detection as an <span style="color:green">**ORAL**</span>!
-- *2024.08*: Started my **M.S.** in Computer Science at Texas A&M University.
-- *2024.07*: Selected for the **Oxford Machine Learning Summer School (OxML) 2024**, sponsored by Google DeepMind (MLx Health & Bio track).
-- *2024.05*: Received a **scholarship worth USD 30,000** from the [Center for Curiosity](https://www.centerforcuriosity.com/research)!
+- *2025.01*: Our paper, "HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection", was accepted at the **WACV 2025** Workshop on AI for Multimedia Forensics & Disinformation Detection as an <span style="color:green">**Oral**</span>!
 - *2024*: Our work, "Calibrating Machine Learning Models For Accurate Stroke Type Prediction In Low-resource Settings", was accepted at the **16th World Stroke Congress (WSC 2024)**, an opportunity to collaborate with **AIIMS Delhi, India**!
 - *2024.01*: Our paper, "A Feature Extraction and Time Warping Based Neural Expansion Architecture for Cloud Resource Usage Forecasting", was published in **Cluster Computing**.
 - *2023.10*: Our paper, "An Automated Diagnosis Model for Classifying Cardiac Abnormality Utilizing Deep Neural Networks", was published in **Multimedia Tools and Applications**.
@@ -40,13 +36,16 @@ Hi! I am a first-year Ph.D. student in Computer Science at Texas A&M University,
 
 RADEO: A Unified Self-supervised Foundation Model Across Diverse Medical Imaging Modalities
 
-<span style="color:green">**US Patent Pending**</span> · *Preprint coming soon*
+**Anant Mehta**, Vicente Balmaseda, Xiyuan Wei, Ryan King, Varsha Goalla, Girish Bathla, Sadeer G. Al-Kindi, Kyle J. Myers, Tianbao Yang
+
+<span style="color:green">**US Patent Pending**</span> · To be submitted to *Nature*
 - Led the development and pretraining of **RADEO**, a single **multi-modality foundation model** self-supervised pretrained on **millions of images** spanning **14+ medical imaging modalities**.
 - RADEO beats Google Research's **MedSigLIP**, the image encoder used in [MedGemma](https://deepmind.google/models/gemma/medgemma/), and achieves a **mean rank of 1** across various tasks.
+- Scaled RADEO to a larger model with **700+ GPUs** in a heroic run on [**VISION**](https://vision.tamus.edu/), the Texas A&M System's NVIDIA DGX SuperPOD (**#66** on the June 2026 TOP500 list), achieving state-of-the-art performance among medical foundation models.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Spotlight</div><img src='images/teaser-tuneclip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Spotlight (Top 3%)</div><img src='images/teaser-tuneclip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP](https://arxiv.org/abs/2601.09859)
@@ -60,7 +59,7 @@ RADEO: A Unified Self-supervised Foundation Model Across Diverse Medical Imaging
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025 Workshop (ORAL)</div><img src='images/teaser-hfmf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025 Workshop (Oral)</div><img src='images/teaser-hfmf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10972529)
@@ -103,7 +102,7 @@ Gurjot Singh, Prajit Sengupta, **Anant Mehta**, Jatin Bedi
 
 # 🎖 Honors and Awards
 - *2026*: **Travel Award** — Annual Conference on Neural Information Processing Systems (**NeurIPS**)
-- *2026*: **Spotlight Paper** — NeurIPS 2026 (TuneCLIP)
+- *2026*: **Spotlight Paper (top 3%)** — NeurIPS 2026 (TuneCLIP)
 - *2025*: **Travel Award** — IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)
 - *2025*: **Oral Presentation** — WACV 2025 Workshop on AI for Multimedia Forensics & Disinformation Detection
 - *2024*: **Scholarship (USD 30,000)** — [Center for Curiosity](https://www.centerforcuriosity.com/research)
@@ -122,6 +121,6 @@ Gurjot Singh, Prajit Sengupta, **Anant Mehta**, Jatin Bedi
 - *2023.06 - 2023.07*, **Machine Learning Engineer Intern**, Metacube Software, Jaipur, India
 - *2022.06 - 2022.07*, **Deep Learning Research Engineer Intern**, NPBridge, Bengaluru, India
 
-# 📚 Teaching
-- *Spring 2026*: Graduate Teaching Assistant, CSCE 482: Senior Capstone Design (undergraduate), Texas A&M University
-- *Fall 2025*: Graduate Teaching Assistant, CSCE 703 / CYBR 603: Cybersecurity Risk (graduate), Texas A&M University
+# 📚 Service
+- *Spring 2026*: Graduate Teaching Assistant, CSCE 482: Senior Capstone Design (undergraduate), Texas A&M University. Mentored 6 projects with 30 students.
+- *Fall 2025*: Graduate Teaching Assistant, CSCE 703 / CYBR 603: Cybersecurity Risk (graduate), Texas A&M University. Mentored 5 students on a research project, one of which led to the **Best Student Paper Award** at GAISS 2026, UT Austin.
